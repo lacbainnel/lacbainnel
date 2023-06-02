@@ -17,7 +17,7 @@ Hi, I'm Jannel 🙌
 <!-- , a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ -->
 
 
-<iframe align="right" src="https://giphy.com/embed/aer096d3vD4rYVsgNn" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align="right" alt="GIF" src="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt/fullscreen" />
 
 
 **Talking about Personal Stuff:**
