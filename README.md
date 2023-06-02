@@ -1,4 +1,5 @@
-### Hello World 👋 It's [Jannel!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Jannel!]
+<!-- (https://sakigo9.github.io/MyPortfolio/) -->
 
 <br/>
 
