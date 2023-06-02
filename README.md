@@ -17,10 +17,10 @@ Hi, I'm Jannel 🙌
 <!-- , a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌ -->
 
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/bunny-rabbit-lofirabbit-aer096d3vD4rYVsgNn" />
+<iframe align="right" src="https://giphy.com/embed/aer096d3vD4rYVsgNn" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently Java Software Developer Intern at OOCL Philippined.
 <!-- - 🌱 I’m currently learning Angular. -->
