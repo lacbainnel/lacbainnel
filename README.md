@@ -23,9 +23,9 @@ Hi, I'm Jannel 🙌
 
 **Talking about Personal Stuff:**
 
-- 🔭 I’m currently Java Software Developer Intern at OOCL Philippines.
+- 🌱 I was a Java Software Developer Intern at OOCL Philippines.
 <!-- - 🌱 I’m currently learning Angular. -->
-- 👯 Part of the WiTech Website Development Team.
+- 👯 I was part of the WiTech Website Development Team.
 <!-- - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/) -->
 
 
